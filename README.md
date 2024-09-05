@@ -18,4 +18,4 @@ The app uses data from the "120 years of Olympic history: athletes and results" 
 
 ## Check out the app here
 
-https://dvidnguyen.shinyapps.io/assignment2/
+ https://dvidnguyen.shinyapps.io/olympic-analysis/
